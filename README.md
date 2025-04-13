@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @getTomsKnowledge
 - 👀 I’m interested in Space, Physics, Math, and Music.
-- 🌱 I’m currently learning Git, Bash, C, and Python.
+- 🌱 I’m currently learning Bash, C, and Python.
 - 💞️ I’m looking to collaborate on anything related to SPACE!
 - 📫 How to reach me twest625@gmail.com
 
